@@ -1,0 +1,11 @@
+INFO:root:File Execution started
+INFO:root:Extracted lines from the files
+INFO:root:Deleted the contents of files
+INFO:root:Writing replaced contents into the file
+INFO:root:File closed sucessfully
+2022-06-08 14:14:06,222 INFO File Execution started
+2022-06-08 14:14:06,239 INFO Extracted lines from the files
+2022-06-08 14:14:06,273 INFO replacement done
+2022-06-08 14:14:06,273 INFO Deleted the contents of files
+2022-06-08 14:14:06,273 INFO Writing replaced contents into the file
+2022-06-08 14:14:06,274 INFO File closed sucessfully
